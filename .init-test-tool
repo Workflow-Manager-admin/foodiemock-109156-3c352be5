@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/foodiemock-109156-3c352be5/foodiemock"
+}
